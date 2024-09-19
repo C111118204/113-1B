@@ -14,4 +14,4 @@
 
 ![NKUST](nkust.png "NKUST")
 
-[![NKUST First Campus 高科大第一校區](https://www.youtube.com/watch?v=zQMCFZtVUTc/0.png)](https://www.youtube.com/watch?v=zQMCFZtVUTc "NKUST First Campus 高科大第一校區")
+
