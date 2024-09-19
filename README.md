@@ -14,4 +14,4 @@
 
 ![NKUST](nkust.png "NKUST")
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ21-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ21-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://www.youtube.com/watch?v=zQMCFZtVUTc/0.jpg)](https://www.youtube.com/watch?v=zQMCFZtVUTc "Everything Is AWESOME")
