@@ -14,4 +14,4 @@
 
 ![NKUST](nkust.png "NKUST")
 
-[![Everything Is AWESOME](https://www.youtube.com/watch?v=zQMCFZtVUTc/0.jpg)](https://www.youtube.com/watch?v=zQMCFZtVUTc "Everything Is AWESOME")
+[![NKUST First Campus 高科大第一校區](https://www.youtube.com/watch?v=zQMCFZtVUTc/0.jpg)](https://www.youtube.com/watch?v=zQMCFZtVUTc "NKUST First Campus 高科大第一校區")
