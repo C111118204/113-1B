@@ -1,5 +1,6 @@
 ### PERT/CPM 圖
-
+PERT圖
+![PERT圖](images/PERT圖.png)
 
 
 
