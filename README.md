@@ -12,7 +12,7 @@
 2
 ```
 
-![NKUST](nkust.png "NKUST")
+![NKUST](/image/nkust.png "NKUST")
 
 [![沉重王冠 ft. Linkin Park（官方MV）|《英雄聯盟》2024世界大賽主題曲](https://img.youtube.com/vi/5FrhtahQiRc/0.jpg)](https://www.youtube.com/watch?v=5FrhtahQiRc)
 
